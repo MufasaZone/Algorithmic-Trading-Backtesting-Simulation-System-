@@ -1,0 +1,852 @@
+[
+    {
+        "name": "BCHUSD.conv",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "ETHUSD.conv",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "BTCUSD.conv",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "LTCUSD.conv",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XAUUSD.conv",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XAGUSD.conv",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Australia 200.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "China H Shares.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Europe 50.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "France 40.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Germany 40.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Hong Kong 50.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Japan 225.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Netherlands 25.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Spain 35.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Swiss 20.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "UK 100.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "US Mid Cap 400.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "US SP 500.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "US Small Cap 2000.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "US Tech 100.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Wall Street 30.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "ADAUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "ALGUSD.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "AVAUSD.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "BATUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "BCHUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "BNBUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "BTCETH.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "BTCLTC.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "BTCUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "DOGUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "DOTUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "DSHUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "ETCUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "ETHUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "IOTUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "LNKUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "LTCUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "SOLUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "UNIUSD.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XLMUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XRPUSD.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "ZECUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "UK Brent Oil.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "US Oil.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XAGEUR.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XAGUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XAUEUR.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XAUUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XCUUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XPDUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "XPTUSD.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "AUDJPY.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "AUDUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURAUD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURCAD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURCHF.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURGBP.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURJPY.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "GBPAUD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "GBPJPY.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "GBPUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDCAD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDCHF.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDJPY.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "AUDCAD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "AUDCHF.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "AUDNZD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "CADCHF.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "CADJPY.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "CHFJPY.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURNOK.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURNZD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURPLN.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURSEK.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "GBPCAD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "GBPCHF.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "GBPNOK.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "GBPNZD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "GBPSEK.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "NZDCAD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "NZDJPY.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "NZDUSD.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDCNH.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDMXN.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDNOK.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDPLN.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDSEK.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDZAR.0",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Step Index.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Range Break 100 Index.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Range Break 200 Index.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 150 Index.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 150 Index.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 1000 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 300 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 500 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 1000 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 300 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 500 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Jump 10 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Jump 100 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Jump 25 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Jump 50 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Jump 75 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "AUD Basket.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EUR Basket.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "GBP Basket.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Gold Basket.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USD Basket.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "DEX 1500 DOWN Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "DEX 1500 UP Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "DEX 600 DOWN Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "DEX 600 UP Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "DEX 900 DOWN Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "DEX 900 UP Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 10 (1s) Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 10 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 100 (1s) Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 100 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 150 (1s) Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 25 (1s) Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 25 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 50 (1s) Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 50 Index.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 75 (1s) Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 75 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "EURUSD.conv",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "USDAED.conv",
+        "pip": 0.0001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 15 (1s) Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 30 (1s) Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 90 (1s) Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 600 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 900 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 600 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 900 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Step Index 200.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Step Index 300.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Step Index 400.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Step Index 500.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Multi Step 2 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Multi Step 3 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Multi Step 4 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Skew Step Index 4 Down.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Skew Step Index 5 Down.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Skew Step Index 4 Up.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Skew Step Index 5 Up.0",
+        "pip": 1.0,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 5 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 5 (1s) Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 50 Index.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 50 Index.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 15 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 30 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Volatility 90 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "High Frequency Vol 10 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "High Frequency Vol 25 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "High Frequency Vol 50 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "High Frequency Vol 75 Index.0",
+        "pip": 0.1,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 99 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 100 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash 200 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 99 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 100 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Boom 200 Index.0",
+        "pip": 0.01,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash Boom Flip 150 Index.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash Boom Flip 300 Index.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash Boom Flip 500 Index.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    },
+    {
+        "name": "Crash Boom Flip 1000 Index.0",
+        "pip": 0.001,
+        "account_currency": "USD"
+    }
+]
